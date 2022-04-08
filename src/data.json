@@ -1,0 +1,38 @@
+[
+    {
+        "mheading": "Title of vertical gallery",
+        "type": "Travel ",
+        "h1": "Joshua Tree Overnight Adventure",
+        "h1description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptas inventore necessitatibus eaque enim vero.",
+        "timeline": "/ January 2022",
+        "h2": "Catch waves with an adventure guide",
+        "h2description": "Gujrat is vastly underrated and it's a mystery to us why the region isn't more well.",
+        "story": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam quasi iusto ad placeat blanditiis repellendus doloribus non illo eaque tempore?",
+        "image": "https://wallpapercave.com/dwp1x/wp9087904.jpg"
+    },
+    {
+        "heading": "3 Idiots review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ January 2022"
+    },
+    {
+        "heading": "Avenger: End Game review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ January 2022"
+    },
+    {
+        "heading": "Health is Wealth",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ January 2022"
+    },
+    {
+        "heading": "Check out the latest tech news",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ January 2022"
+    },
+    {
+        "heading": "Just appreciate the beauty of the World",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ January 2022"
+    }
+]
